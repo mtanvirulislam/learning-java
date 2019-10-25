@@ -1,6 +1,5 @@
-package ContadorPrioridad;
+package swing.contadorPrioridad;
 import java.awt.Component;
-import java.awt.Label;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 
